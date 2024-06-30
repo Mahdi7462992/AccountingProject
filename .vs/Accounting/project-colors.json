@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f97a7fbc-1bd1-457b-b6ae-1541f46cdcb6": {
+      "ProjectGuid": "f97a7fbc-1bd1-457b-b6ae-1541f46cdcb6",
+      "DisplayName": "Accounting.DataLayer",
+      "ColorIndex": 0
+    },
+    "9d9b75a4-5c2d-454c-ac75-2cf291a552a3": {
+      "ProjectGuid": "9d9b75a4-5c2d-454c-ac75-2cf291a552a3",
+      "DisplayName": "Accounting.App",
+      "ColorIndex": 1
+    },
+    "447e01c9-4566-4c0c-9ae4-93118aebae56": {
+      "ProjectGuid": "447e01c9-4566-4c0c-9ae4-93118aebae56",
+      "DisplayName": "Accounting.ViewModels",
+      "ColorIndex": 2
+    },
+    "596e4cf7-071b-4694-b64d-e81895196c4f": {
+      "ProjectGuid": "596e4cf7-071b-4694-b64d-e81895196c4f",
+      "DisplayName": "Accounting.Utility",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
